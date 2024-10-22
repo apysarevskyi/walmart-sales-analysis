@@ -9,4 +9,6 @@ This repository contains an in-depth analysis of Walmart sales data, focusing on
 * Visualizing sales trends over time and across multiple stores.
 * Applying statistical methods to understand correlations and make predictions.
 
+The analysis is also available on Kaggle: [Walmart Sales Analysis Notebook](https://www.kaggle.com/code/andriipysarevskyi/walmart-sales).
+
 This project is part of my Data Scientist portfolio, and you can view my portfolio website here: [My Portfolio](https://apysarevskyi.github.io/).
